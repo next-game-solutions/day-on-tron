@@ -12,4 +12,7 @@ This repository contains R code used in the Medium article "A day in the life of
 <br>
 
 # Additional information
-If you have any questions regarding this analysis, please get in touch by [email](mailto:info@nextgamesolutions.com) or visit our website - [Next Game Solutions](http://nextgamesolutions.com/).
+If you have any questions regarding this analysis, please get in touch by [email](mailto:info@nextgamesolutions.com).
+
+<hr>
+Copyright (c) 2021 [Next Game Solutions OÜ](http://nextgamesolutions.com/)
