@@ -3,7 +3,6 @@
 
 require(tronr)
 require(dplyr)
-require(tidyr)
 
 
 # ------ Transactions from all blocks generated on 2021-07-02 ------
