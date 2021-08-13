@@ -1,6 +1,6 @@
 # Purpose of this repository
 
-This repository contains R code used in the Medium article "A day in the life of a blockchain".
+This repository contains R code used in the Medium article "[A day in the life of a blockchain](https://mastitsky.medium.com/a-day-in-the-life-of-a-blockchain-eb352980ee16)".
 
 # Content of the repository
 
